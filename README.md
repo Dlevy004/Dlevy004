@@ -29,6 +29,7 @@ A ***story-driven psychological horror*** experience played from a first-person 
 I believe in continuous learning, so I aim to complete online courses (freeCodeCamp), tutorials, or industrial certifications.
 
 - **Unity Certified User: Programmer** (2026) - *Unity Technologies*
+- **IT Specialist - HTML and CSS** (2026) - *Certiport*
 
 ---
 

@@ -16,13 +16,17 @@ While my primary focus is on **Web Development** with a special love for **Front
     <img src="./assets/Github logos.png" width="500">
 </div>
 
-## 🚀 Current projects
+## 🚀 Current Project
 
 **Pátyod Klíma Full-Stack Web App** <br>
-Developing a dynamic web application to replace the previous static site. My goal is to create a ***CMS system*** that allows the client to independently manage advertisements and references, as well as automate the sales process.
+Developing a dynamic web application to replace the previous static site. My goal is to create a *CMS and business management system* that allows the client to independently manage advertisements, references and internal accounting, as well as automate the sales process.
 
-**Thesis - Unity 3D Game Development** <br>
-A ***story-driven psychological horror*** experience played from a first-person perspective. The game features a choice system with a focus on narrative depth and atmospheric storytelling.
+## ⚡ My Projects
+
+**Echoes of Memory** <br>
+A first-person psychological horror experience developed as a university thesis project in Unity. The *game focuses on atmospheric storytelling*, environmental narrative depth.
+
+The project is fully playable and hosted on [itch.io](https://levy-games.itch.io/echoes-of-memory).
 
 ## 🏆 Certifications
 
@@ -32,6 +36,7 @@ I believe in continuous learning, so I aim to complete online courses (freeCodeC
 - **Unity Certified User: Programmer** (2026) - *Unity Technologies*
 - **IT Specialist - HTML and CSS** (2026) - *Certiport*
 - **IT Specialist - JavaScript** (2026) - *Certiport*
+- **IT Specialist - Python** (2026) - *Certiport*
 
 ---
 

@@ -24,9 +24,9 @@ Developing a dynamic web application to replace the previous static site. My goa
 ## ⚡ My Projects
 
 **Echoes of Memory** <br>
-A first-person psychological horror experience developed as a university thesis project in Unity. The *game focuses on atmospheric storytelling*, environmental narrative depth.
+A *first-person psychological horror* experience developed as a university thesis project in Unity. The game focuses on *atmospheric storytelling*, environmental narrative depth.
 
-The project is fully playable and hosted on [itch.io](https://levy-games.itch.io/echoes-of-memory).
+🎮 The project is fully playable and hosted on [itch.io](https://levy-games.itch.io/echoes-of-memory).
 
 ## 🏆 Certifications
 

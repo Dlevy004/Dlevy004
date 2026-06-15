@@ -8,7 +8,7 @@
 
 I'm a final-year **Computer Science Student** at the **University of Debrecen**.
 
-While my primary focus is on **Web Development** with a special love for **Frontend & UI/UX**, I also have strong interest in **Game Development** and **Software Engineering**. I love combining code with creativity, whether it's a website or a 3D environment.
+While my primary focus is on **Web Development** with a special love for **Frontend & UI/UX**, I also have strong interest in **Game Development** and **Software Development**. I love combining code with creativity, whether it's a website or a 3D environment.
 
 ## 🛠️ Languages and Tools
 

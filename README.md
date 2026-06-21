@@ -8,7 +8,7 @@
 
 I'm a final-year **Computer Science Student** at the **University of Debrecen**.
 
-While my primary focus is on **Web Development** with a special love for **Frontend & UI/UX**, I also have strong interest in **Game Development** and **Software Development**. I love combining code with creativity, whether it's a website or a 3D environment.
+While my primary focus is on **Web Development** with a special love for **Frontend & UI/UX**, I also have a strong interest in **Game Development** and **Software Development**. I love combining code with creativity, whether it's a website or a 3D environment.
 
 ## 🛠️ Languages and Tools
 
@@ -19,7 +19,7 @@ While my primary focus is on **Web Development** with a special love for **Front
 ## 🚀 Current Project
 
 **Pátyod Klíma Full-Stack Web App** <br>
-Developing a dynamic web application to replace the previous static site. My goal is to create a *CMS and business management system* that allows the client to independently manage advertisements, references and internal accounting, as well as automate the sales process.
+Developing a dynamic web application to replace the previous static site. My goal is to create a *CMS and business management system* that allows the client to independently manage advertisements, reference images, track client installations, and create visual AC placements with AI.
 
 ## ⚡ My Projects
 

@@ -8,12 +8,14 @@
 
 I graduated in **Computer Science** at the **University of Debrecen**.
 
-While my primary focus is on **Web Development** with a special love for **Frontend & UI/UX**, I also have a strong interest in **Game Development** and **Software Development**. I love combining code with creativity, whether it's a website or a 3D environment.
+While my primary focus is on **Web Development** with a special love for **Frontend & UI/UX**, I also have a strong interest in **Game Development** and **Software Development**.
+
+I love combining code with creativity, whether it's a website or a 3D environment.
 
 ## 🛠️ Languages and Tools
 
 <div align="center">
-    <img src="./assets/Github logos.png" width="500">
+    <img src="./assets/logos.png" width="500">
 </div>
 
 ## 🚀 Current Project

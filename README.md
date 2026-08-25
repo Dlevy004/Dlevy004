@@ -1,8 +1,6 @@
-<div align="center">
-
-  # Hello, I'm Levente! 👋
-
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&color=228fce&center=true&vCenter=true&width=430&lines=Hi,+👋+I'm+Levente;Welcome+to+my+profile!" alt="Typing SVG" />
+</h1>
 
 ## 📚 Introduction
 

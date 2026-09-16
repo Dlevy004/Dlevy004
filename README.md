@@ -18,7 +18,7 @@ I love combining code with creativity, whether it's a website or a 3D environmen
 
 ## 🚀 Current Project
 
-### Pátyod Klíma Full-Stack Web Application
+### Pátyod Klíma Website and Admin Portal
 Developing a dynamic web application to replace the previous static site. My goal is to create a *CMS and business management system* that allows the client to independently manage advertisements, references and internal accounting, as well as automate the sales process.
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)

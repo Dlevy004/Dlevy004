@@ -16,10 +16,10 @@ I love combining code with creativity, whether it's a website or a 3D environmen
     <img src="./assets/logos.png" width="500">
 </div>
 
-## 🚀 Current Project
+## ⚡ My Projects
 
 ### Pátyod Klíma Website and Admin Portal
-Developing a dynamic web application to replace the previous static site. My goal is to create a *CMS and business management system* that allows the client to independently manage advertisements, references and internal accounting, as well as automate the sales process.
+Developed a dynamic web application to replace the previous static site. My goal was to create a *CMS and business management system* that allows the client to independently manage advertisements, references and internal accounting, as well as automate the sales process.
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,8 +35,6 @@ Developing a dynamic web application to replace the previous static site. My goa
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## ⚡ My Projects
 
 ### Echoes of Memory
 A *first-person psychological horror* experience developed as a university thesis project in Unity. The game focuses on *atmospheric storytelling*, environmental narrative depth.
